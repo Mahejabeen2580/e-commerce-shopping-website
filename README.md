@@ -14,8 +14,5 @@ This is a full-stack e-commerce website built using React (frontend) and Express
 - Responsive layout for mobile and desktop
 - Backend API integration for product data
 
-## 🚧 Status
-Currently under development — styling and dashboard flows are being refined.
-
 ## 🙋‍♀️ About Me
 Built by Mahejabeen Shaik, a Computer Science student passionate about web development and DevOps.
